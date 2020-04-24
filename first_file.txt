@@ -1,2 +1,4 @@
 Primer archivo para el repo privado
 Gracias por la invitacion
+
+Primer commit desde gitkraken
